@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A78D9B4B-F4CC-499A-AA48-0CF3F1C2E504}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinimumNumberOfFlightSegments/Program.cs">
+    <Files>
+      <File FileName="MinimumNumberOfFlightSegments/Program.cs" Line="9" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MinimumNumberOfFlightSegments PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

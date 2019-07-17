@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/Course-3/MinimumNumberOfFlightSegments/MinimumNumberOfFlightSegments/bin/Debug/MinimumNumberOfFlightSegments.exe
+/Users/rashmi/Projects/Course-3/MinimumNumberOfFlightSegments/MinimumNumberOfFlightSegments/bin/Debug/MinimumNumberOfFlightSegments.pdb
+/Users/rashmi/Projects/Course-3/MinimumNumberOfFlightSegments/MinimumNumberOfFlightSegments/obj/x86/Debug/MinimumNumberOfFlightSegments.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/Course-3/MinimumNumberOfFlightSegments/MinimumNumberOfFlightSegments/obj/x86/Debug/MinimumNumberOfFlightSegments.exe
+/Users/rashmi/Projects/Course-3/MinimumNumberOfFlightSegments/MinimumNumberOfFlightSegments/obj/x86/Debug/MinimumNumberOfFlightSegments.pdb
