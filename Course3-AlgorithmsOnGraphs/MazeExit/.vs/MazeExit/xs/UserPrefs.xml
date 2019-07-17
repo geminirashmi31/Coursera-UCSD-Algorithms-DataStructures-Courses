@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2137E9EF-8554-47B6-BAA0-4D9BE5FADB39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MazeExit/Program.cs">
+    <Files>
+      <File FileName="MazeExit/Program.cs" Line="11" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MazeExit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
