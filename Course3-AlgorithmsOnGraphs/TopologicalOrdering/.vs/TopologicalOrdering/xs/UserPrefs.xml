@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{812316D5-B1CC-4B23-85C1-E13D5460DD25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TopologicalOrdering/Program.cs">
+    <Files>
+      <File FileName="TopologicalOrdering/Program.cs" Line="10" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TopologicalOrdering PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
