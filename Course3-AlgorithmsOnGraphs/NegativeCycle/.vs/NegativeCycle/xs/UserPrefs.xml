@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{84FDE778-FF6E-4A1A-8E1A-8DEC3221F783}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NegativeCycle/Program.cs">
+    <Files>
+      <File FileName="NegativeCycle/Program.cs" Line="55" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.NegativeCycle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
