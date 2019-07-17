@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{B47E3195-082B-4423-9222-1EF3FCA584C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneBook/Program.cs">
+    <Files>
+      <File FileName="PhoneBook/Program.cs" Line="88" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

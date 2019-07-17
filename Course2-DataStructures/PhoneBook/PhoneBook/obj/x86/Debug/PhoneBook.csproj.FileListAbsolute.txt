@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/PhoneBook/PhoneBook/bin/Debug/PhoneBook.exe
+/Users/rashmi/Projects/PhoneBook/PhoneBook/bin/Debug/PhoneBook.pdb
+/Users/rashmi/Projects/PhoneBook/PhoneBook/obj/x86/Debug/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/PhoneBook/PhoneBook/obj/x86/Debug/PhoneBook.exe
+/Users/rashmi/Projects/PhoneBook/PhoneBook/obj/x86/Debug/PhoneBook.pdb
