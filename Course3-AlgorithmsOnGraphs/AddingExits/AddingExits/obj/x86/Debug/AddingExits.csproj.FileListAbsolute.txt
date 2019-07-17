@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/Course-3/AddingExits/AddingExits/bin/Debug/AddingExits.exe
+/Users/rashmi/Projects/Course-3/AddingExits/AddingExits/bin/Debug/AddingExits.pdb
+/Users/rashmi/Projects/Course-3/AddingExits/AddingExits/obj/x86/Debug/AddingExits.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/Course-3/AddingExits/AddingExits/obj/x86/Debug/AddingExits.exe
+/Users/rashmi/Projects/Course-3/AddingExits/AddingExits/obj/x86/Debug/AddingExits.pdb

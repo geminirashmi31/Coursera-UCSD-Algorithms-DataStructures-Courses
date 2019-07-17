@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{613AA4E5-927F-47A0-ABE2-DE024E2F8FA9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddingExits/Program.cs">
+    <Files>
+      <File FileName="AddingExits/Program.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AddingExits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
