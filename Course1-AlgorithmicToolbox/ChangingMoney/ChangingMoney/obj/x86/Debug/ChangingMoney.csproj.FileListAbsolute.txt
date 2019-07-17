@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/ChangingMoney/ChangingMoney/bin/Debug/ChangingMoney.exe
+/Users/rashmi/Projects/ChangingMoney/ChangingMoney/bin/Debug/ChangingMoney.pdb
+/Users/rashmi/Projects/ChangingMoney/ChangingMoney/obj/x86/Debug/ChangingMoney.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/ChangingMoney/ChangingMoney/obj/x86/Debug/ChangingMoney.exe
+/Users/rashmi/Projects/ChangingMoney/ChangingMoney/obj/x86/Debug/ChangingMoney.pdb
