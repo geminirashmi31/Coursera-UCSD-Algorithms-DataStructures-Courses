@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5E431850-D4B2-4987-A04F-EEA5AA40268F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dijkstra/Program.cs">
+    <Files>
+      <File FileName="Dijkstra/Program.cs" Line="75" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Dijkstra PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
