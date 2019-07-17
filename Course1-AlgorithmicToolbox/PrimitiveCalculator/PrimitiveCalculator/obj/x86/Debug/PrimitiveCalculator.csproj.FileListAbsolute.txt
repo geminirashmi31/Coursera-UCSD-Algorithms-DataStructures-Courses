@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/PrimitiveCalculator/PrimitiveCalculator/bin/Debug/PrimitiveCalculator.exe
+/Users/rashmi/Projects/PrimitiveCalculator/PrimitiveCalculator/bin/Debug/PrimitiveCalculator.pdb
+/Users/rashmi/Projects/PrimitiveCalculator/PrimitiveCalculator/obj/x86/Debug/PrimitiveCalculator.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/PrimitiveCalculator/PrimitiveCalculator/obj/x86/Debug/PrimitiveCalculator.exe
+/Users/rashmi/Projects/PrimitiveCalculator/PrimitiveCalculator/obj/x86/Debug/PrimitiveCalculator.pdb
