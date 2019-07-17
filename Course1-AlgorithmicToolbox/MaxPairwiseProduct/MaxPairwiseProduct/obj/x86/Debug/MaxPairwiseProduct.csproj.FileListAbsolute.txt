@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/MaxPairwiseProduct/MaxPairwiseProduct/bin/Debug/MaxPairwiseProduct.exe
+/Users/rashmi/Projects/MaxPairwiseProduct/MaxPairwiseProduct/bin/Debug/MaxPairwiseProduct.pdb
+/Users/rashmi/Projects/MaxPairwiseProduct/MaxPairwiseProduct/obj/x86/Debug/MaxPairwiseProduct.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/MaxPairwiseProduct/MaxPairwiseProduct/obj/x86/Debug/MaxPairwiseProduct.exe
+/Users/rashmi/Projects/MaxPairwiseProduct/MaxPairwiseProduct/obj/x86/Debug/MaxPairwiseProduct.pdb

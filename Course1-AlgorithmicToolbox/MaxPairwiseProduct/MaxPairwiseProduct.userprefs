@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0C1F1E62-E782-4DD3-88FA-383AF96CA269}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MaxPairwiseProduct/MaxPairwiseProduct.cs">
+    <Files>
+      <File FileName="MaxPairwiseProduct/MaxPairwiseProduct.cs" Line="28" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MaxPairwiseProduct PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
