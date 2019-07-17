@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E4F3EC37-976B-481B-BDE3-D98D6EC11700}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryTreeTraversals/Program.cs">
+    <Files>
+      <File FileName="BinaryTreeTraversals/Program.cs" Line="120" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BinaryTreeTraversals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
