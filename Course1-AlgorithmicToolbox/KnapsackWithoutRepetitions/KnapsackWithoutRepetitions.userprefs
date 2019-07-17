@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5A0970ED-67BE-41E6-A29B-3BD6843FC327}|Default">
+  <MonoDevelop.Ide.ItemProperties.KnapsackWithoutRepetitions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KnapsackWithoutRepetitions/Program.cs">
+    <Files>
+      <File FileName="KnapsackWithoutRepetitions/Program.cs" Line="50" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

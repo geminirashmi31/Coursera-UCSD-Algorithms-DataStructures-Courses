@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/KnapsackWithoutRepetitions/KnapsackWithoutRepetitions/obj/x86/Debug/KnapsackWithoutRepetitions.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/KnapsackWithoutRepetitions/KnapsackWithoutRepetitions/bin/Debug/KnapsackWithoutRepetitions.exe
+/Users/rashmi/Projects/KnapsackWithoutRepetitions/KnapsackWithoutRepetitions/bin/Debug/KnapsackWithoutRepetitions.pdb
+/Users/rashmi/Projects/KnapsackWithoutRepetitions/KnapsackWithoutRepetitions/obj/x86/Debug/KnapsackWithoutRepetitions.exe
+/Users/rashmi/Projects/KnapsackWithoutRepetitions/KnapsackWithoutRepetitions/obj/x86/Debug/KnapsackWithoutRepetitions.pdb
