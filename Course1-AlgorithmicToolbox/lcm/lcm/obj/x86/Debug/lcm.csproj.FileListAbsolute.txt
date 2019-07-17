@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/lcm/lcm/bin/Debug/lcm.exe
+/Users/rashmi/Projects/lcm/lcm/bin/Debug/lcm.pdb
+/Users/rashmi/Projects/lcm/lcm/obj/x86/Debug/lcm.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/lcm/lcm/obj/x86/Debug/lcm.exe
+/Users/rashmi/Projects/lcm/lcm/obj/x86/Debug/lcm.pdb
