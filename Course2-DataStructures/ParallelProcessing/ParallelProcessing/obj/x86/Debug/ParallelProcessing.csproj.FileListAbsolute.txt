@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/ParallelProcessing/ParallelProcessing/bin/Debug/ParallelProcessing.exe
+/Users/rashmi/Projects/ParallelProcessing/ParallelProcessing/bin/Debug/ParallelProcessing.pdb
+/Users/rashmi/Projects/ParallelProcessing/ParallelProcessing/obj/x86/Debug/ParallelProcessing.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/ParallelProcessing/ParallelProcessing/obj/x86/Debug/ParallelProcessing.exe
+/Users/rashmi/Projects/ParallelProcessing/ParallelProcessing/obj/x86/Debug/ParallelProcessing.pdb

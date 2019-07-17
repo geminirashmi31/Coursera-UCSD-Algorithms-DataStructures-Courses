@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A0B84485-5F6F-4C07-8CDD-7F5E95BE35C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.ParallelProcessing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParallelProcessing/MinHeap.cs">
+    <Files>
+      <File FileName="ParallelProcessing/Program.cs" Line="16" Column="30" />
+      <File FileName="ParallelProcessing/HeapBase.cs" Line="109" Column="6" />
+      <File FileName="ParallelProcessing/JobInfo.cs" Line="17" Column="1" />
+      <File FileName="ParallelProcessing/JobPriorityQueue.cs" Line="59" Column="6" />
+      <File FileName="ParallelProcessing/MinHeap.cs" Line="32" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>threadId</Value>
+          <Value>this.jobOrder</Value>
+          <Value>topJob</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
