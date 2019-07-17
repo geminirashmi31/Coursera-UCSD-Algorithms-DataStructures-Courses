@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/MajorityElement/MajorityElement/bin/Debug/MajorityElement.exe
+/Users/rashmi/Projects/MajorityElement/MajorityElement/bin/Debug/MajorityElement.pdb
+/Users/rashmi/Projects/MajorityElement/MajorityElement/obj/x86/Debug/MajorityElement.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/MajorityElement/MajorityElement/obj/x86/Debug/MajorityElement.exe
+/Users/rashmi/Projects/MajorityElement/MajorityElement/obj/x86/Debug/MajorityElement.pdb
