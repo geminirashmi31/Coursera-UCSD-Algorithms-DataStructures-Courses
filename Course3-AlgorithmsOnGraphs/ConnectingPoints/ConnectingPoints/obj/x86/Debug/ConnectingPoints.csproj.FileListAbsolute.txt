@@ -1,0 +1,10 @@
+/Users/rashmi/Projects/Course-3/ConnectingPoints/ConnectingPoints/bin/Debug/ConnectingPoints.exe
+/Users/rashmi/Projects/Course-3/ConnectingPoints/ConnectingPoints/bin/Debug/ConnectingPoints.pdb
+/Users/rashmi/Projects/Course-3/ConnectingPoints/ConnectingPoints/obj/x86/Debug/ConnectingPoints.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/Course-3/ConnectingPoints/ConnectingPoints/obj/x86/Debug/ConnectingPoints.exe
+/Users/rashmi/Projects/Course-3/ConnectingPoints/ConnectingPoints/obj/x86/Debug/ConnectingPoints.pdb
+/Users/rashmi/Projects/Course-3/week5Assignment/ConnectingPoints/ConnectingPoints/bin/Debug/ConnectingPoints.exe
+/Users/rashmi/Projects/Course-3/week5Assignment/ConnectingPoints/ConnectingPoints/bin/Debug/ConnectingPoints.pdb
+/Users/rashmi/Projects/Course-3/week5Assignment/ConnectingPoints/ConnectingPoints/obj/x86/Debug/ConnectingPoints.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/Course-3/week5Assignment/ConnectingPoints/ConnectingPoints/obj/x86/Debug/ConnectingPoints.exe
+/Users/rashmi/Projects/Course-3/week5Assignment/ConnectingPoints/ConnectingPoints/obj/x86/Debug/ConnectingPoints.pdb
