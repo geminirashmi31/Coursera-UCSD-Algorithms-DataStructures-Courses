@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7729EE56-0A94-4D63-B9FA-1E6F41D562F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Acyclicity/Program.cs">
+    <Files>
+      <File FileName="Acyclicity/Program.cs" Line="6" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Acyclicity PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
