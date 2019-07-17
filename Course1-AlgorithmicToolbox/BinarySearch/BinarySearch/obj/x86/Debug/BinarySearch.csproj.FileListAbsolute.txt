@@ -1,0 +1,5 @@
+/Users/rashmi/Projects/BinarySearch/BinarySearch/bin/Debug/BinarySearch.exe
+/Users/rashmi/Projects/BinarySearch/BinarySearch/bin/Debug/BinarySearch.pdb
+/Users/rashmi/Projects/BinarySearch/BinarySearch/obj/x86/Debug/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/rashmi/Projects/BinarySearch/BinarySearch/obj/x86/Debug/BinarySearch.exe
+/Users/rashmi/Projects/BinarySearch/BinarySearch/obj/x86/Debug/BinarySearch.pdb
